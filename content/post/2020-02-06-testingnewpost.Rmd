@@ -1,0 +1,11 @@
+---
+title: testingNewPost
+author: sara stankiewicz
+date: '2020-02-06'
+slug: testingnewpost
+categories:
+  - R
+tags: []
+---
+ Testing how a new post is created and how it works 
+ 
